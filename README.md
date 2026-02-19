@@ -63,6 +63,8 @@ app/
 
 Pacifique Harerimana
 
+⭐ If you found this project helpful or interesting, please consider giving it a star!
+
 ## License
 
 This project is for educational purposes.
