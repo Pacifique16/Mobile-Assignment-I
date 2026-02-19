@@ -1,26 +1,26 @@
-# Mobile Assignment 1
+# Mobile Assignment 1 📱
 
 An Android application developed as part of Mobile Programming coursework at AUCA.
 
-## Description
+## Description 📝
 
 This is a basic Android application built with Java that demonstrates fundamental Android development concepts including activity lifecycle, UI layout with ConstraintLayout, and edge-to-edge display support.
 
-## Features
+## Features ✨
 
 - Single activity application with MainActivity
 - Edge-to-edge display implementation
 - Material Design components
 - ConstraintLayout for responsive UI
 
-## Requirements
+## Requirements 📋
 
 - Android Studio (latest version recommended)
 - Android SDK API 24 (Android 7.0) or higher
 - Java 11
 - Gradle 9.1.0
 
-## Installation
+## Installation 🚀
 
 1. Clone the repository:
 ```bash
@@ -33,7 +33,7 @@ git clone https://github.com/Pacifique16/Mobile-Assignment-I.git
 
 4. Run the application on an emulator or physical device
 
-## Project Structure
+## Project Structure 📂
 
 ```
 app/
@@ -51,7 +51,7 @@ app/
 └── build.gradle.kts
 ```
 
-## Technologies Used
+## Technologies Used 🛠️
 
 - Java
 - Android SDK
@@ -59,12 +59,12 @@ app/
 - Material Components
 - ConstraintLayout
 
-## Author
+## Author 👨‍💻
 
 Pacifique Harerimana
 
 ⭐ If you found this project helpful or interesting, please consider giving it a star!
 
-## License
+## License 📄
 
 This project is for educational purposes.
